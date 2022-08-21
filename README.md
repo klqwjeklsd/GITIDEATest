@@ -1,2 +1,2 @@
 # GITIDEATest
-再IDEA上测试GIt的使用
+在IDEA上测试GIt的使用
